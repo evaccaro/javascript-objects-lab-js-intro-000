@@ -1,3 +1,3 @@
-function recipes = {
-  
+var recipes = {
+
 };
